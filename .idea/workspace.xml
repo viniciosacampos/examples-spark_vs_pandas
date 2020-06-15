@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bd845376-f8b0-4fe3-90c9-42df02f833e4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/sbt.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drop-partition-table" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mentoring/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mentoring/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mentoring/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mentoring/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mentoring/.idea/mentoring.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mentoring/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mentoring/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mentoring/.idea/sbt.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mentoring/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mentoring/access key.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mentoring/architecture.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mentoring/instruction.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mentoring/user_data_hello_word.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mentoring/user_data_wordpress.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mentoring/wp-config.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test-cognitivo/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test-cognitivo/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test-cognitivo/.idea/test-cognitivo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test-cognitivo/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test-cognitivo/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test-cognitivo/Cognitivo.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test-cognitivo/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test-cognitivo/etl.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test-cognitivo/teste-eng-dados/config/types_mapping.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test-cognitivo/teste-eng-dados/data/input/users/load.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test-cognitivo/teste-eng-dados/requirements/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../utils/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../utils/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../utils/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../utils/.idea/utils.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../utils/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../utils/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../utils/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../utils/compare_parameter_group.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../word-count" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../workshop-devops/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../workshop-devops/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../workshop-devops/_provider.tf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../workshop-devops/ssm.tf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../workshop-devops/terraform.tfstate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../workshop-devops/terraform.tfstate.backup" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1d7hoSSAS5SX38aBkMVAbwHvb9t" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/artifacts/data/input/users" />
+      <recent name="$PROJECT_DIR$/artifacts/data/output/spark" />
+      <recent name="$PROJECT_DIR$/artifacts/data/output/pandas" />
+      <recent name="$PROJECT_DIR$/.idea" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bd845376-f8b0-4fe3-90c9-42df02f833e4" name="Default Changelist" comment="" />
+      <created>1591782213551</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591782213551</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="503" y="141" key="FileChooserDialogImpl" timestamp="1591920291796">
+      <screen x="65" y="24" width="1301" height="744" />
+    </state>
+    <state x="503" y="141" key="FileChooserDialogImpl/65.24.1301.744@65.24.1301.744" timestamp="1591920291796" />
+  </component>
+</project>
